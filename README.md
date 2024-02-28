@@ -13,7 +13,7 @@ Notification application built with React.js, utilizing WebSocket for real-time 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/emirsali13/react-notify-app.git
+    git clone https://github.com/emirsali13/notification-react.git
     ```
 
 2. Install dependencies for the client:
